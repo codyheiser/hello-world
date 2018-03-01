@@ -1,4 +1,2 @@
-# hello-world
-First github repo
-
-testing gitHub out!
+# scipy
+Materials and exercises from SciPy conference, ATX
